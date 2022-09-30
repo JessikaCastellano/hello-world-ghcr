@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JessikaCastellano/hello-world-ghcr/issues"
   },
-  "homepage": "https://github.com/JessikaCastellano/hello-world-ghcr#readme"
+  "homepage": "https://github.com/JessikaCastellano/hello-world-ghcr#readme",
+  "publishConfig": {
+    "@JessikaCastellano:registry": "https://npm.pkg.github.com"
+  }
 }
